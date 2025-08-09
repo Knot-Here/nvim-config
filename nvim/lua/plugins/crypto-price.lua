@@ -19,7 +19,6 @@ local crypto_map = {
   link = "chainlink",
   uni = "uniswap",
   atom = "cosmos",
-  cosmos = "cosmos",
   ltc = "litecoin",
   near = "near",
   ftm = "fantom",
@@ -34,7 +33,6 @@ local crypto_map = {
   inj = "injective-protocol",
   sui = "sui",
   tia = "celestia",
-  celestia = "celestia",
 }
 
 -- Display names for better output
