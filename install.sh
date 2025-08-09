@@ -1,4 +1,3 @@
-cat > install.sh << 'EOF'
 #!/bin/bash
 
 # Colors for output
@@ -27,6 +26,3 @@ ln -s "$PWD/nvim" "$HOME/.config/nvim"
 
 echo -e "${GREEN}Neovim configuration installed successfully!${NC}"
 echo "You may need to install plugins when you first open Neovim."
-EOF
-
-chmod +x install.sh

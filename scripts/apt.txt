@@ -1,0 +1,6 @@
+lua
+luarocks
+curl
+ripgrep
+fzf
+lazygit
