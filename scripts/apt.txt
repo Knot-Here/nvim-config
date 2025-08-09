@@ -3,3 +3,7 @@ curl
 ripgrep
 fzf
 xclip
+fd-find
+
+pipx
+python3-pynvim
